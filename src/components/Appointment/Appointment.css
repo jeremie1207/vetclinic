@@ -1,0 +1,32 @@
+.textarea_app{
+    height: 10rem;
+    resize: none;
+}
+
+.input_app{
+    width: 29%;
+}
+
+.progressbar{
+    border: solid 1px #39AEA9;
+}
+.btn_app{
+    margin-right: .2rem;
+    width: 5rem;
+}
+.bar{
+    background-color: #39AEA9;
+    padding: 1em;
+    text-align: center;
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 700px) {
+    .input_app{
+       width: 80%;
+    }
+    
+
+  }

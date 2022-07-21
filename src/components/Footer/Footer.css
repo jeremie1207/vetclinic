@@ -1,0 +1,39 @@
+
+
+.my_footer{
+    padding: 4rem;
+    background-color: #39AEA9;
+    color: white;
+}
+
+
+.footer_flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.color_white{
+    color: white;
+    text-decoration: underline;
+}
+.color_white:hover{
+    color: whitesmoke;
+}
+.color_white:focus{
+    color:white;
+}
+
+
+
+@media only screen and (max-width: 700px) {
+    .footer_flex{
+        flex-direction: column;
+    }
+    .footer_item{
+        margin: 1rem 0;
+    }
+
+
+}
+
+

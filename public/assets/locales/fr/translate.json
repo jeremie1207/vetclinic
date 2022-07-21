@@ -1,0 +1,98 @@
+{
+    "home": "Accueil",
+    "our_services" : "Nos services",
+    "our_team" : "Notre équipe", 
+    "opinion_of_our_customer" : "Avis de nos client",
+    "contact" : "Nous contacter",
+
+    "make_an_appointement" : "Prendre rendez-vous",
+    "call": "FAITE TRAITER VOS COMPAGNONS PAR NOS MEILLEURS SPÉCIALISTES",
+    "goal": "Notre but est de prodiguer les meilleurs soins à vos animaux",
+
+    "How_can_we_help_you": "Comment pouvons-nous vous aider ?",
+    "Routine_care": "Soins de routine", 
+    "Clinical_diagnostic_tests": "Tests diagnostique en clinique",
+    "Surgery": "Chirurgie",
+    "Dentistry": "Dentisterie",
+    "Diet_advice": "Conseils sur l'alimentation",
+
+    "show": "En savoir plus",
+    "hide": "Cacher l'info", 
+
+    "err_1": "Veuillez entrer votre nom complet.",
+    "err_2": "Veuillez sélectionner une note.",
+    "err_3": "Veuillez écrire votre commentaire.", 
+    "err_4": "Écrivez un e-mail valide, s’il vous plaît.",
+    "err_5":"S'il vous plaît écrivez votre message",
+
+    "give_your_opinion" : "Donnez votre avis sur le service que vous avez reçu",
+
+    "full_name": "Nom complet", 
+    "select_rank" : "Notez le service reçu sur 5(0 : pour un mauvais service et 5 : pour un service incroyable)", 
+    "comments" : "Commentaire",
+    "comment": "Commentez",
+
+    "your_email": "Votre adresse courriel",
+    "email": "Adresse couriel", 
+
+    "message": "Message", 
+
+    "send": "Envoyez",
+
+    "confirmation_send": "votre message a été envoyé un de nos spécialistes, vous repondra dans de bref délai",
+
+    "address": "123 Rue Ottawa",
+
+    "laboratory_veterinarians" : "Vétérinaires de laboratoire",
+    "exotic_animal": "Animal exotique",
+    "veterinary_specialists": "Spécialistes vétérinaires", 
+
+    "personal_info" : "Etape 1: Informations personnelles", 
+    "pet_info": "Etape 2: Informations sur l'animal",
+    "app_info": "Deniere Etape: Informations sur le rendez-vous", 
+
+    "address_form" : "Adresse",
+    "city": "Ville", 
+    "postal_code": "Code Postal",
+
+    "phone_number": "Numéro de téléphone",
+
+    "name": "Nom", 
+    "age_month": "Age",
+    "type": "Type",
+    "canine": "Canin", 
+    "feline": "Felin",
+    "exotic": "Exotique", 
+    "other": "Autre", 
+    "race": "Race", 
+    "sex": "Sexe",
+    "male": "Male", 
+    "female": "Femelle",
+    "Is_your_pets_vaccines_current": "Le vaccin de votre animal est-il à jour ?",
+
+    "how_can_we_help_you": "Comment pouvons-nous vous aider ?",
+    "date_and_time": "Date et l'heure",
+    "special_request": "Demande spéciale ?", 
+    "choose_your_specialist": "Choisissez votre spécialiste",
+
+    "submit" : "Soumettre",
+    "prev": "Précédent",
+    "next": "Suivant",
+
+    "err_app" : "Certaines informations nécessaires à la prise de rendez-vous sont manquantes, s'il vous plaît veuillez les fournir...",
+
+    "optional" : "optionnel",
+
+    "opening_time" : "Heure d'ouverture",
+
+    "monday" : "Lundi : 8h00 – 20h00",
+    "tuesday" : "Mardi : 8h00 – 20h00",
+    "wednesday" : "Mercredi : 8h00 – 20h00",
+    "thursday" : "Jeudi : 8h00 – 20h00",
+    "friday" : "Vendredi : 8h00 – 18h30",
+    "saturday" : "Samedi : 8h00 – 12h00",
+    "sunday" : "Dimanche : Fermé", 
+
+    "useful_links" : "Liens utiles"
+
+}

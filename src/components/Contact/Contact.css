@@ -1,0 +1,48 @@
+.contact{
+    margin: 2rem 0;
+}
+
+.flex_contact {
+    display: flex;
+    flex-direction: row;
+
+}
+.cat_bg{
+    padding: 10rem 15rem;
+    width: 50%;
+    background-image: url('cat-face.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 .2rem;
+}
+
+.input_contact{
+    width: 90%;
+}
+
+.form{
+    width: 100%;
+}
+
+.flex-infos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .flex_contact{
+        flex-direction: column;
+    }
+    .cat_bg{
+        display: none;
+    }
+    .input_contact{
+        width: 77%;
+    }
+    
+
+
+}
