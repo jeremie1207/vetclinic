@@ -1,0 +1,102 @@
+{
+    "home": "Home",
+    "our_services" : "Our services",
+    "our_team" : "Our team", 
+    "opinion_of_our_customer" : "Opinion of our customer",
+    "contact" : "Contact us",
+
+
+    "make_an_appointement" : "Make an appointment", 
+    "call": "HAVE YOUR COMPANIONS TREATED BY OUR BEST SPECIALISTS",
+    "goal": "Our goal is to provide the best care for your pets.",
+
+
+    "How_can_we_help_you": "How can we help you ?",
+    "Routine_care": "Routine care",
+    "Clinical_diagnostic_tests": "Clinical diagnostic tests",
+    "Surgery": "Surgery",
+    "Dentistry": "Dentistry",
+    "Diet_advice": "Diet advice",
+
+    "show": "Show",
+    "hide": "Hide",
+
+    "err_1": "Please enter your full name.",
+    "err_2": "Please select a rating.",
+    "err_3": "Please write your comment.",
+    "err_4": "Write a valid email, please.",
+    "err_5":"Please write your message",
+
+    "give_your_opinion" : "Give your opinion on the service you received",
+
+    "full_name": "Fullname", 
+    "select_rank" : "Rate the service received out of 5 (0: for bad service and 5: for incredible service)", 
+    "comments" : "Comments", 
+    "comment": "Comment", 
+
+    "your_email": "Your email address",
+    "email": "Email",
+
+    "message": "Message", 
+
+    "send": "Send",
+
+    "confirmation_send": "your message has been sent one of our specialists will get back to you as soon as possible",
+
+    "address": "123 Ottawa Street",
+    
+    "laboratory_veterinarians" : "Laboratory Veterinarians",
+    "exotic_animal": "Exotic Animal",
+    "veterinary_specialists": "Veterinary Specialists",
+
+    "personal_info" : "Step 1 : Personal Info", 
+    "pet_info": "Step 2 : Pet Info",
+    "app_info": "Final Step : Appointment Info", 
+
+    "address_form" : "Address",
+    "city": "City",
+    "postal_code": "Postal Code",
+
+    "phone_number": "Phone Number", 
+
+    "name": "Name", 
+    "age_month": "Age",
+    "type": "Type",
+    "canine": "Canine", 
+    "feline": "Feline",
+    "exotic": "Exotic", 
+    "other": "Other", 
+    "race": "Race", 
+    "sex": "Sex",
+    "male": "Male", 
+    "female": "Female", 
+    "Is_your_pets_vaccines_current": "Is your pet vaccine current ?",
+
+    "how_can_we_help_you": "How can we help you ?",
+    "date_and_time": "Date and Time",
+    "special_request": "Special request ?", 
+    "choose_your_specialist": "Choose your specialist",
+
+    "submit" : "Submit",
+    "prev": "Prev",
+    "next": "Next",
+
+    "err_app" : "Some information needed to make an appointment is missing, please provide it...",
+
+    "optional" : "optional",
+
+    "opening_time" : "Opennig time",
+
+    "monday" : "Monday: 8 AM – 8PM",
+    "tuesday" : "Tuesday: 8 AM – 8PM",
+    "wednesday" : "Wednesday: 8 AM – 8PM",
+    "thursday" : "Thursday: 8 AM – 8PM",
+    "friday" : "Friday: 8 AM – 6:30PM",
+    "saturday" : "Saturday: 8 AM – 12 AM",
+    "sunday" : "Sunday: Closed",
+
+    "useful_links" : "Useful links"
+
+    
+    
+}

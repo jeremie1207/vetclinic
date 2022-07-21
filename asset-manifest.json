@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vetclinic/static/css/main.b0e52b00.css",
+    "main.js": "/vetclinic/static/js/main.aac5f1b5.js",
+    "static/media/dog.jpg": "/vetclinic/static/media/dog.5a460a93b15bbd8315c7.jpg",
+    "static/media/Women_Vet.jpg": "/vetclinic/static/media/Women_Vet.b3b1fb9e2578fecd5aab.jpg",
+    "static/media/cat-face.jpg": "/vetclinic/static/media/cat-face.05802a6ddb890264da88.jpg",
+    "index.html": "/vetclinic/index.html",
+    "static/media/getFetch.cjs": "/vetclinic/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.b0e52b00.css.map": "/vetclinic/static/css/main.b0e52b00.css.map",
+    "main.aac5f1b5.js.map": "/vetclinic/static/js/main.aac5f1b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e52b00.css",
+    "static/js/main.aac5f1b5.js"
+  ]
+}
